@@ -30,10 +30,14 @@ F2
 
 **Truth table**
 
+
 F1
+
 ![Screenshot 2024-12-21 111323](https://github.com/user-attachments/assets/3044bdf3-79fe-47e9-9b0d-40b33b194d9e)
 
+
 F2
+
 ![image](https://github.com/user-attachments/assets/3462c2dc-aa00-4025-810d-e43682ab83e1)
 
 
